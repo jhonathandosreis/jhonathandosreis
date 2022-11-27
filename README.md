@@ -93,13 +93,6 @@
       <strong>Desenvolvedor Java FullStack</strong>
     </li>
     <li>
-      <g-emoji class="g-emoji" alias="desktop_computer"
-        fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>
-      Faço Streams diariamente na
-      <a href="https://www.twitch.tv/jhonathandrss" rel="nofollow">Twitch</a>
-      compartilhando meus estudos.
-    </li>
-    <li>
       <g-emoji class="g-emoji" alias="mortar_board"
         fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>
       Sou formado em Analise e Desenvolvimento de Sistemas.
@@ -183,7 +176,7 @@
   </h2>
   <div dir="auto">
     <br />
-    <a href="https://www.twitch.tv/jhonathandrss" target="_blank" rel="nofollow"><img
+    <a href="https://www.twitch.tv/jhonathandrss" rel="nofollow"><img
         src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465"
         data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"
         style="max-width: 100%" /></a>
