@@ -139,17 +139,6 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open Rangel-pic in new window"
-            class="AnimatedImagePlayer-button"
-            href="https://camo.githubusercontent.com/8d66de06f8ccdb90d8b4f622b07a18e10c7f2c1258c503bd8d431133177ff77d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35662f35662f63302f35663566633035353132363630343266666562333330326263643362313036662e676966"
-            target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16"
-              height="16">
-              <path fill-rule="evenodd"
-                d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z">
-              </path>
-            </svg>
-          </a>
         </span>
       </span>
     </animated-image>
