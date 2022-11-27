@@ -125,20 +125,6 @@
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1"
           aria-label="Play Jhonathan-pic"></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button"
-            aria-label="Play Jhonathan-pic">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16"
-              viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-              </path>
-            </svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16"
-              viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
         </span>
       </span>
     </animated-image>
