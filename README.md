@@ -1,5 +1,6 @@
 <div align="center">
  <h1>👋 Oi, Sou Jhonathan<h1>
+   <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Profile+Views&style=for-the-badge">
 </div>
 
  ## 🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
