@@ -21,15 +21,6 @@
 <img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
 &nbsp;
 
-## 📊 &nbsp;Stats
-<div style="width:100%; display:flex;">
- <a href="https://github.com/jhonathandosreis">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhonathandosreis&show_icons=true&theme=cobalt"/>
- <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathandosreis&layout=compact&langs_count=7&theme=dracula"/>
- </a>
-</div>
-&nbsp;
-
 ## 👇 &nbsp;Sociais
 <div><br>
  <a href="https://www.twitch.tv/jhonathandrss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
