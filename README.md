@@ -4,6 +4,7 @@
 </div>
   
 <h3><b><samp>👨🏻‍💻 &nbsp;Sobre Mim</samp></b></h3>
+  
 - ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
 
