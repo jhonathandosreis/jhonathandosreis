@@ -3,8 +3,9 @@
    <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Profile+Views&style=for-the-badge">
 </div>
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
   
+##  
 <h3><b><samp>👨🏻‍💻 &nbsp;Sobre Mim</samp></b></h3>
   
 - ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
