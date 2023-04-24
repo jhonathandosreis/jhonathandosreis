@@ -62,10 +62,11 @@
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
-</span>  
+</span> 
+  
 ##
 <h3><b><samp>👇 &nbsp;Sociais</samp></b></h3>
-<div><br>
+
  <a href="https://www.twitch.tv/jhonathandrss" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jhonathandrs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jhonathandeveloper2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
