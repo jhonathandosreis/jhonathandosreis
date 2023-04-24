@@ -14,9 +14,8 @@
 ##
 <h3><b><samp>🧰 &nbsp;Tecnologias e Ferramentas que eu uso:</samp></b></h3>
  
-<div>
-<img align="right" src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/terminal.gif" width="40%"/>
-<br>  
+<img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/terminal.gif">
+&nbsp; 
   
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
