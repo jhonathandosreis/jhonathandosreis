@@ -3,7 +3,7 @@
    <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Profile+Views&style=for-the-badge">
 </div>
   
- ## 👨🏻‍💻 &nbsp;Sobre Mim
+👨🏻‍💻 &nbsp;Sobre Mim
 - ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
 
