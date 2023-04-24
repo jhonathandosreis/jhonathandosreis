@@ -39,7 +39,7 @@
 &nbsp;
   
 ##
-<h3><b><samp>Ferramentas e plataforma</samp></b></h3>
+<h3><b><samp>⚡&nbsp;Ferramentas e plataforma</samp></b></h3>
 
 ![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
