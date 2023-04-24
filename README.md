@@ -2,6 +2,12 @@
  <h1>👋 Oi, Sou Jhonathan<h1>
    <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Profile+Views&style=for-the-badge">
 </div>
+  
+ ## 👨🏻‍💻 &nbsp;Sobre Mim
+- ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
+- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
+<img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
+&nbsp;  
 
 🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
   
@@ -31,12 +37,6 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
 </span>
-&nbsp;
-
- ## 👨🏻‍💻 &nbsp;Sobre Mim
-- ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
-- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
-<img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
 &nbsp;
   
 ##
