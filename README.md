@@ -3,7 +3,7 @@
    <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Profile+Views&style=for-the-badge">
 </div>
 
- ## 🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
+🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
   
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
