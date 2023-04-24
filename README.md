@@ -6,8 +6,6 @@
  ## 👨🏻‍💻 &nbsp;Sobre Mim
 - ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
-<img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
-&nbsp;  
 
 🧰 &nbsp;<h3><b><samp>Tecnologias e Ferramentas que eu uso:</samp></b></h3>
   
