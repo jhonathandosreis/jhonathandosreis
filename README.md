@@ -9,7 +9,7 @@
 <img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif">
 &nbsp;  
 
-🧰 &nbsp;Tecnologias e Ferramentas que eu uso:
+🧰 &nbsp;<h3><b><samp>Tecnologias e Ferramentas que eu uso:</samp></b></h3>
   
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
@@ -25,17 +25,17 @@
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
 </span>
 &nbsp;
   
@@ -55,14 +55,14 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
   
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>  
 
 ## 👇 &nbsp;Sociais
