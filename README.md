@@ -20,7 +20,6 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -34,7 +33,6 @@
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
