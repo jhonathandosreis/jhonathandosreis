@@ -7,6 +7,7 @@
 - ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
 - 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
 
+##
 <h3><b><samp>🧰 &nbsp;Tecnologias e Ferramentas que eu uso:</samp></b></h3>
   
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
