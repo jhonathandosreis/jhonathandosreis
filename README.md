@@ -3,6 +3,8 @@
    <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Profile+Views&style=for-the-badge">
 </div>
   
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)  
+  
 <h3><b><samp>👨🏻‍💻 &nbsp;Sobre Mim</samp></b></h3>
   
 - ⚙️ Atualmente, estou atuando como **Desenvolvedor Java FullStack**
@@ -10,6 +12,10 @@
 
 ##
 <h3><b><samp>🧰 &nbsp;Tecnologias e Ferramentas que eu uso:</samp></b></h3>
+ 
+<div>
+<img align="right" src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/terminal.gif" width="40%"/>
+<br>  
   
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
