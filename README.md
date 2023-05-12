@@ -17,29 +17,30 @@
 <img align="right" alt="Jhonathan-pic" height="150" style="border-radius:50px;" src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/terminal.gif">
 &nbsp; 
   
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF5733?style=flat-square&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Html](https://img.shields.io/badge/Html-FFA500?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Css](https://img.shields.io/badge/css-0000FF?style=flat-square&logo=css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFFF?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-FF5733?style=flat-square&logo=Oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=flat-square&logo=Firebase&logoColor=white)
+![Google-cloud](https://img.shields.io/badge/Google-cloud-4285F4?style=flat-square&logo=Google-cloud&logoColor=white&color=4285F4,FFBA00,DB4437,0F9D58)
+![Git](https://img.shields.io/badge/Git-FFA500?style=flat-square&logo=Git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0000FF?style=flat-square&logo=MathWorks&logoColor=white)
+![Node](https://img.shields.io/badge/Node-008000?style=flat-square&logo=Node&logoColor=white)
 
 <span>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/java.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/htm.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/postgresql.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/oracle.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/firebase.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/node.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/redhat.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/docker.svg" alt="drawing" width="50"/>
 </span>
 &nbsp;
   
