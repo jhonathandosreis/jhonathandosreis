@@ -37,7 +37,6 @@
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/postgresql.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/oracle.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/firebase.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/node.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/redhat.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/docker.svg" alt="drawing" width="50"/>
@@ -60,7 +59,7 @@
   
 <span>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/firebase.svg" alt="drawing" width="30"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
