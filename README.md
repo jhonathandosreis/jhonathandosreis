@@ -32,7 +32,7 @@
 <span>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/java.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/htm.svg" alt="drawing" width="50"/>
+<img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/postgresql.svg" alt="drawing" width="50"/>
 <img src="https://github.com/jhonathandosreis/jhonathandosreis/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
