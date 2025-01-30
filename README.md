@@ -1,75 +1,145 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Oi, Sou Jhonathan
 
 <div align="center">
-  
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=jhonathandosreis&label=Visualizações+do+Perfil&style=for-the-badge&color=blueviolet)
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+FullStack;Formado+em+ADS;Sempre+Aprendendo" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=%3C+Desenvolvedor+Java+FullStack+%2F%3E;%7B+Formado+em+ADS+%7D;%5B+Sempre+Aprendendo+%5D)](https://git.io/typing-svg)
+
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+<details>
+<summary>⚡ Algumas estatísticas legais</summary>
+<br>
+
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=jhonathandosreis&label=Visualizações+do+Perfil&style=for-the-badge&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/jhonathandosreis?style=for-the-badge&color=blueviolet)
+![Years Badge](https://badges.pufler.dev/years/jhonathandosreis?style=for-the-badge&color=blueviolet)
+
+</details>
 
 </div>
 
-## 👨🏻‍💻 Sobre Mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Sobre Mim
 
-```javascript
-const jhonathan = {
-    atualmente: "Desenvolvedor Java FullStack",
-    formação: "Análise e Desenvolvimento de Sistemas",
-    local: "Brasil 🇧🇷",
-    interesses: ["Java", "Desenvolvimento Web", "Cloud Computing"]
-};
+```typescript
+class Developer {
+    name: string = 'Jhonathan dos Reis';
+    role: string = 'Desenvolvedor Java FullStack';
+    education: string = 'Análise e Desenvolvimento de Sistemas';
+    location: string = 'Brasil 🇧🇷';
+    
+    getKnowledge(): Record<string, string[]> {
+        return {
+            languages: ['Java', 'JavaScript', 'TypeScript'],
+            frontend: ['HTML5', 'CSS3', 'React', 'Bootstrap'],
+            backend: ['Spring Boot', 'Node.js', 'Express'],
+            databases: ['PostgreSQL', 'Oracle', 'Firebase'],
+            tools: ['Git', 'Docker', 'VS Code'],
+            cloud: ['Google Cloud Platform', 'Heroku']
+        };
+    }
+
+    sayHi(): string {
+        return 'Obrigado por visitar meu perfil! 👋';
+    }
+}
 ```
 
-## 🛠️ Stack Tecnológica
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Stack Tecnológica
 
 <div align="center">
 
-### Principais Tecnologias
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+<!-- Principais Tecnologias -->
+<details open>
+<summary><b>🔥 Principais Tecnologias</b></summary>
+<br>
 
-### Bancos de Dados
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,nodejs,spring,react&theme=dark)](https://skillicons.dev)
 
-### DevOps & Ferramentas
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+</details>
+
+<!-- Bancos de Dados -->
+<details open>
+<summary><b>💾 Bancos de Dados</b></summary>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,oracle,firebase,mongodb&theme=dark)](https://skillicons.dev)
+
+</details>
+
+<!-- DevOps & Ferramentas -->
+<details open>
+<summary><b>🛠️ DevOps & Ferramentas</b></summary>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</details>
 
 </div>
 
-## 🚀 Plataformas & Ambientes
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> GitHub Stats
 
 <div align="center">
 
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonathandosreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathandosreis&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonathandosreis&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathandosreis&layout=compact&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jhonathandosreis&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonathandosreis&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
-## 🤝 Conecte-se Comigo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Conecte-se Comigo
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathandosreis)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonathandeveloper2022@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhonathandrs)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jhonathandrss)
 
 </div>
+
+<!-- Stereggs -->
+<details>
+<summary>🎮 Você encontrou um easter egg!</summary>
+<br>
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⡆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀
+⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣤⣤⣀
+⠀⠀⠀⠈⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀
+
+// Parabéns! Você encontrou o Java Duke escondido!
+```
+
+</details>
+
+<!-- Contador de Café -->
+<div align="center">
+    <br>
+    <p>☕ Quantidade de café para codar:</p>
+    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="50">
+    <p><strong>Error 404:</strong> Café infinito não encontrado</p>
+</div>
+
+<!-- Rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
