@@ -58,7 +58,8 @@ class Developer {
 <summary><b>💾 Bancos de Dados</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,oracle,firebase,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,docker,firebase,mongodb&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 
 </details>
 
