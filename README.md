@@ -73,5 +73,3 @@ const jhonathan = {
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jhonathandrss)
 
 </div>
-
-![Snake animation](https://github.com/jhonathandosreis/jhonathandosreis/blob/output/github-contribution-grid-snake.svg)
