@@ -4,17 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=%3C+Desenvolvedor+Java+FullStack+%2F%3E;%7B+Formado+em+ADS+%7D;%5B+Sempre+Aprendendo+%5D)](https://git.io/typing-svg)
 
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+<img src="https://cdn.jsdelivr.net/gh/brettmcginnis/codingTogether@master/images/programmer.gif" width="500"/>
 
-<details>
-<summary>⚡ Algumas estatísticas legais</summary>
-<br>
-
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=jhonathandosreis&label=Visualizações+do+Perfil&style=for-the-badge&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/jhonathandosreis?style=for-the-badge&color=blueviolet)
-![Years Badge](https://badges.pufler.dev/years/jhonathandosreis?style=for-the-badge&color=blueviolet)
-
-</details>
+<div style="display: flex; justify-content: center; gap: 4px;">
+    <img src="https://komarev.com/ghpvc/?username=jhonathandosreis&label=Visualizações+do+Perfil&style=for-the-badge&color=blueviolet" alt="Visualizações do Perfil"/>
+    <img src="https://img.shields.io/github/followers/jhonathandosreis?style=for-the-badge&color=blueviolet" alt="Seguidores"/>
+    <img src="https://badges.pufler.dev/years/jhonathandosreis?style=for-the-badge&color=blueviolet" alt="Anos"/>
+</div>
 
 </div>
 
