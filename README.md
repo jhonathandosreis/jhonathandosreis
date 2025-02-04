@@ -49,14 +49,8 @@ class Developer {
 <summary><b>🔥 Principais Tecnologias</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,nodejs,spring,react&theme=dark)](https://skillicons.dev)
-
-<!-- Principais Tecnologias -->
-<details open>
-<summary><b>🔥 Principais Tecnologias</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,nodejs,spring,react,kubernetes,angular,kafka,quarkus,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,nodejs,spring,react,kubernetes,angular,kafka,nginx&theme=dark)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/quarkusio/quarkus/main/logo/icon/SVG/quarkus_icon_rgb_default.svg" width="48" height="48" alt="Quarkus" />
 
 </details>
 
@@ -67,6 +61,15 @@ class Developer {
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,docker,firebase,mongodb,mysql,redis&theme=dark)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+
+</details>
+
+<!-- DevOps & Ferramentas -->
+<details open>
+<summary><b>🛠️ DevOps & Ferramentas</b></summary>
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,linux,kubernetes,jenkins,terraform,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
 </details>
 
